@@ -1,0 +1,6 @@
+const ProductFilter {
+  constructor(){
+    
+  }
+  
+}
